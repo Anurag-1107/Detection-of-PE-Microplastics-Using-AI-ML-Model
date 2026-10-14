@@ -32,6 +32,8 @@ Split the dataset into training, validation, and test subsets using a 70:15:15 r
 | Test | 75 |
 
 The test subset was kept separate from model training and validation to assess performance on held-out images.
+<img width="837" height="658" alt="download (3)" src="https://github.com/user-attachments/assets/21de58b2-b267-46a4-b88c-eb2134d3dd00" />
+
 
 ### 3. Model development
 
